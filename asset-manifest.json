@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "/birthday-ui/static/css/main.31d6cfe0.css",
-    "main.js": "/birthday-ui/static/js/main.6467e3c6.js",
+    "main.js": "/birthday-ui/static/js/main.44939af8.js",
     "index.html": "/birthday-ui/index.html",
-    "main.6467e3c6.js.map": "/birthday-ui/static/js/main.6467e3c6.js.map"
+    "main.44939af8.js.map": "/birthday-ui/static/js/main.44939af8.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.6467e3c6.js"
+    "static/js/main.44939af8.js"
   ]
 }
