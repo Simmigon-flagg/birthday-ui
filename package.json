@@ -4,6 +4,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.61",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.0.1",
     "@testing-library/user-event": "^13.5.0",
@@ -20,8 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "setup": "yarn install && npm run deploy && yarn start",
-    "update": "git push && npm run deploy && yarn start"
-    
+    "update-website": "git push && npm run deploy && yarn start"
   },
   "eslintConfig": {
     "extends": [
